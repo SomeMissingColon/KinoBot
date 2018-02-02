@@ -1,0 +1,22 @@
+Thank you for using KinoBot:
+
+!imdb <movie name>:
+returns imdb rating of movie.
+
+!synopsis <movie name>:
+returns synopsis of movie.
+
+!movie <movie name>:
+returns movie info if the movie was added
+
+!addMovie <movie name>:
+add movie to the repository
+
+!delMovie <movie name>:
+delete movie from the repository
+
+!rate <movie name>,<rating between 0 and 10>
+add your rating to the community rating
+
+!addSnap <movie name>,<imgur link of movie>
+add a snapshot of the movie so it shows up when calling the !movie command.
